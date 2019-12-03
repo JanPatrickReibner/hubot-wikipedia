@@ -2,7 +2,7 @@
   "name": "hubot-wikipedia",
   "description": "A Hubot script for interacting with Wikipedia's API (searching for articles and returning extracts).",
   "version": "0.0.4",
-  "author": "Ian Lai <os@fyianlai.com>",
+  "author": "Jan-Patrick Reibner <jan-patrick.reibner@materna.de>",
   "license": "MIT",
   "keywords": [
     "hubot",
@@ -13,10 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ClaudeBot/hubot-wikipedia.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ClaudeBot/hubot-wikipedia/issues"
+    "url": "https://github.com/JanPatrickReibner/hubot-wikipedia-german.git"
   },
   "dependencies": {},
   "peerDependencies": {
