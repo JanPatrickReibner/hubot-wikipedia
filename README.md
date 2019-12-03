@@ -1,3 +1,5 @@
+Fork for german usage
+
 # hubot-wikipedia
 
 [![Build Status](https://travis-ci.org/ClaudeBot/hubot-wikipedia.svg)](https://travis-ci.org/ClaudeBot/hubot-wikipedia)
