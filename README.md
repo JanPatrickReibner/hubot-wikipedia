@@ -7,7 +7,7 @@ A Hubot script for interacting with [Wikipedia's API](https://de.wikipedia.org/w
 See [`src/wikipedia.coffee`](src/wikipedia.coffee) for full documentation.
 
 ## Installation
-Download the wikipedia.coffee and place it under <hubot>/src. 
+Download the wikipedia.coffee and place it under \<hubot>/src. 
 
 
 ## Commands
