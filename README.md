@@ -1,29 +1,13 @@
-Fork for german usage
+Fork from hubot-wikipedia for german usage
 
-# hubot-wikipedia
+# hubot-wikipedia-german
 
 A Hubot script for interacting with [Wikipedia's API](https://de.wikipedia.org/w/api.php) (searching for articles and returning extracts).
 
 See [`src/wikipedia.coffee`](src/wikipedia.coffee) for full documentation.
 
-
-## Installation via NPM
-
-1. Install the __hubot-wikipedia__ module as a Hubot dependency by running:
-
-    ```
-    npm install --save hubot-wikipedia
-    ```
-
-2. Enable the module by adding the __hubot-wikipedia__ entry to your `external-scripts.json` file:
-
-    ```json
-    [
-        "hubot-wikipedia"
-    ]
-    ```
-
-3. Run your bot and see below for available config / commands
+## Installation
+Download the wikipedia.coffee and place it under <hubot>/src. 
 
 
 ## Commands
